@@ -1,17 +1,23 @@
-#### Hi, I'm Fundoku <span><img src="./resouces/hi.gif" width="28"/></span>
+<p align="center">
+  <img src="./resouces/hi.gif" width="28"/> Hi, I'm Fundoku
+</p>
+
+<p align="center">
 ```
 ███████╗██╗░░░██╗███╗░░██╗██████╗░░█████╗░██╗░░██╗██╗░░░██╗  ██╗░░██╗██╗██████╗░██╗
 ██╔════╝██║░░░██║████╗░██║██╔══██╗██╔══██╗██║░██╔╝██║░░░██║  ██║░██╔╝██║██╔══██╗██║
-█████╗░░██║░░░██║██╔██╗██║██║░░██║██║░░██║█████═╝░██║░░░██║  █████═╝░██║██████╔╝██║
+█████╗░░██║░░░██║██╔██╗██║██║░░██║██║░░██║█████═╝░██║░░░██║  █████═╝░██║██████═╝░██║
 ██╔══╝░░██║░░░██║██║╚████║██║░░██║██║░░██║██╔═██╗░██║░░░██║  ██╔═██╗░██║██╔══██╗██║
-██║░░░░░╚██████╔╝██║░╚███║██████╔╝╚█████╔╝██║░╚██╗╚██████╔╝  ██║░╚██╗██║██║░░██║██║
-╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝╚═════╝░░╚════╝░╚═╝░░╚═╝░╚═════╝░  ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═╝
+██║░░░░░╚██████╔╝██║░╚███║██████═╝░╚█████═╝░██║░╚██╗╚██████═╝  ██║░╚██╗██║██║░░██║██║
+╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝╚══════╝░░╚══════╝░╚═╝░░╚══╝░╚═════╝░  ╚═╝░░╚══╝╚═╝╚═╝░░╚═╝╚═╝
 ```
-#### Welcome To My Github !
+</p>
+
+<p align="center"><b>Welcome To My Github !</b></p>
 
 ## ✨ About me
 
-- 🐧 Linux user.
+- 🐧 Linux user (Arch btw)
 - 🎯 Focus: Backend, CLI tools, Automation
 - 🌱 Always learning something new
 
@@ -27,8 +33,8 @@
 ⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⠿⣆⠀⠀⠀⠀
 ⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀
-⠀⢀⣾⣿⣿⠿⠟⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠻⠿⣿⣿⣷⡀⠀
-⣠⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣄
+⠀⢀⣾⣿⣿⣿⠿⠟⠛⠋⠉⠉⠀⠀⠀⠀⠀⠉⠉⠙⠛⠻⠿⣿⣿⣷⡀⠀
+⣠⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣄
 ```
 
 ## 📊 GitHub Stats
@@ -42,11 +48,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fundokukiri&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<!-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,neovim,tmux,zsh,bash,python,go,rust,c,cpp,typescript,nodejs,deno,html,css,react,tailwind,docker,kubernetes,nginx,postgres,redis,mongodb,sqlite,grafana,prometheus" />
-</p> -->
+</p>
 
 ## 🔗 Reach me via
 
