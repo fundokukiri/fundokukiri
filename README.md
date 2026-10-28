@@ -42,11 +42,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fundokukiri&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-## 🛠️ Tech Stack
+<!-- ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,neovim,tmux,zsh,bash,python,go,rust,c,cpp,typescript,nodejs,deno,html,css,react,tailwind,docker,kubernetes,nginx,postgres,redis,mongodb,sqlite,grafana,prometheus" />
-</p>
+</p> -->
 
 ## 🔗 Reach me via
 
