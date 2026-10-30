@@ -16,13 +16,14 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-Linux user<br>
-Focus: Backend, CLI tools, Automation<br>
-Always learning something new
+Linux user · Computer Engineer<br>
+Hardware to software: C/C++, Python, Rust, a bit of AI<br>
+Always learning new languages and technologies<br>
+<a href="https://fundoku.io.vn/">fundoku.io.vn</a>
 </p>
 
 <div align="center">
-<pre>
+<pre>m
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
