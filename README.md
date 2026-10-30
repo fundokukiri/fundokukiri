@@ -19,7 +19,7 @@
 Linux user · Computer Engineer<br>
 Hardware to software: C/C++, Python, Rust, a bit of AI<br>
 Always learning new languages and technologies<br>
-<a href="https://fundoku.io.vn/">fundoku.io.vn</a>
+<a href="https://fundoku.io.vn/" target="_blank" rel="noopener noreferrer">fundoku.io.vn</a>
 </p>
 
 <div align="center">
