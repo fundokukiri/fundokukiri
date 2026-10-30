@@ -13,12 +13,12 @@
 
 <h4 align="center">Welcome To My Github !</h4>
 
-<h2 align="center">✨ About me</h2>
+<h2 align="center">About me</h2>
 
 <p align="center">
-🐧 Linux user<br>
-🎯 Focus: Backend, CLI tools, Automation<br>
-🌱 Always learning something new
+Linux user<br>
+Focus: Backend, CLI tools, Automation<br>
+Always learning something new
 </p>
 
 <div align="center">
