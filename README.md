@@ -31,23 +31,6 @@
 ⣠⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣄
 ```
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fundokukiri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fundokukiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fundokukiri&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<!-- ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,neovim,tmux,zsh,bash,python,go,rust,c,cpp,typescript,nodejs,deno,html,css,react,tailwind,docker,kubernetes,nginx,postgres,redis,mongodb,sqlite,grafana,prometheus" />
-</p> -->
-
 ## 🔗 Reach me via
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fundokukiri)
